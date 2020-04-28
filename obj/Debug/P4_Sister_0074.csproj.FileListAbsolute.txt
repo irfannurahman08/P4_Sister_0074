@@ -1,0 +1,9 @@
+D:\Latihan\C#\P4_Sister_0074\P4_Sister_0074\bin\Debug\P4_Sister_0074.exe.config
+D:\Latihan\C#\P4_Sister_0074\P4_Sister_0074\obj\Debug\P4_Sister_0074.csprojResolveAssemblyReference.cache
+D:\Latihan\C#\P4_Sister_0074\P4_Sister_0074\obj\Debug\P4_Sister_0074.Form1.resources
+D:\Latihan\C#\P4_Sister_0074\P4_Sister_0074\obj\Debug\P4_Sister_0074.Properties.Resources.resources
+D:\Latihan\C#\P4_Sister_0074\P4_Sister_0074\obj\Debug\P4_Sister_0074.csproj.GenerateResource.Cache
+D:\Latihan\C#\P4_Sister_0074\P4_Sister_0074\bin\Debug\P4_Sister_0074.exe
+D:\Latihan\C#\P4_Sister_0074\P4_Sister_0074\bin\Debug\P4_Sister_0074.pdb
+D:\Latihan\C#\P4_Sister_0074\P4_Sister_0074\obj\Debug\P4_Sister_0074.exe
+D:\Latihan\C#\P4_Sister_0074\P4_Sister_0074\obj\Debug\P4_Sister_0074.pdb

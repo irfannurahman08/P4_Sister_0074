@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Pengarang>
+    <ID>18.11.0074</ID>
+    <Nama>Irfan Nurahman</Nama>
+    <Telepon>089523879201</Telepon>
+    <Email>irfannurahman08@gmail.com</Email>
+  </Pengarang>
+  <Buku>
+    <Kode>12345</Kode>
+    <Judul>Code Noob</Judul>
+    <Penerbit>Irfan Studio</Penerbit>
+  </Buku>
+  <Buku />
+</NewDataSet>
